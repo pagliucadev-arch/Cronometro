@@ -1,6 +1,6 @@
 # Cronometro com React Hooks
 
 
-Projeto simples apenas para aprender a utilizar o conceito de estados do React.
+Projeto simples para aprender a utilizar o conceito de estados do ReactJS.
 
-Também aproveitei a oportunidade de utilizar uma animação nos botões de Iniciar e Zerar com o CSS.
+Também aproveitei a oportunidade para treinar minha habilidade de criar animações com o CSS.
